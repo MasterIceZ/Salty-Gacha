@@ -125,7 +125,7 @@ export const Element:ElementType[] = [
         rate: 'UR'
     },{
         name: 'Mick',
-        picture_path: 'Mick.jpg',
+        picture_path: 'Mick.png',
         rate: 'UR'
     },{
         name: 'Mick',
@@ -150,7 +150,7 @@ export const Element:ElementType[] = [
     },
     {
         name: 'Karn',
-        picture_path: 'Karn3.jpg',
+        picture_path: 'Karn3.png',
         rate: 'C'
     },{
         name: 'Karn',
@@ -158,7 +158,7 @@ export const Element:ElementType[] = [
         rate: 'R'
     },{
         name: 'Pha',
-        picture_path: 'Pha4.jpg',
+        picture_path: 'Pha4.png',
         rate: 'UR'
     },{
         name: 'Mick',
