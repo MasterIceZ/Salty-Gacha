@@ -14,12 +14,17 @@ export const Element:ElementType[] = [
     },
     {
         name: 'Fai',
-        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Fai.jpg?raw=true',
+        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Fai.png?raw=true',
         rate: 'C'
     },
     {
         name: 'Ink',
-        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Ink.jpg?raw=true',
+        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Ink.png?raw=true',
         rate: 'R'
+    },
+    {
+        name: 'Pha',
+        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Pha.jpg?raw=true',
+        rate: 'C'
     }
 ]
