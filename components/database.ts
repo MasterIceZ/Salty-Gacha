@@ -9,22 +9,35 @@ export interface ElementType{
 export const Element:ElementType[] = [
     {
         name: 'Ice',
-        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Ice.jpg?raw=true',
+        picture_path: 'Ice.jpg',
         rate: 'SSR'
-    },
-    {
+    },{
         name: 'Fai',
-        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Fai.png?raw=true',
+        picture_path: 'Fai.png',
         rate: 'C'
-    },
-    {
+    },{
         name: 'Ink',
-        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Ink.png?raw=true',
+        picture_path: 'Ink.png',
         rate: 'R'
-    },
-    {
+    },{
         name: 'Pha',
-        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Pha.jpg?raw=true',
+        picture_path: 'Pha.jpg',
+        rate: 'C'
+    },{
+        name: 'Sun',
+        picture_path: 'Sun.jpg',
+        rate: 'R'
+    },{
+        name: 'Idin',
+        picture_path: 'Idin.png',
+        rate: 'SSR'
+    },{
+        name: 'Pha',
+        picture_path: 'Pha2.png',
+        rate: 'C'
+    },{
+        name: 'Fai',
+        picture_path: 'Fai2.png',
         rate: 'C'
     }
 ]

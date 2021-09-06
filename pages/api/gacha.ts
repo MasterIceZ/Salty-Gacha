@@ -15,12 +15,20 @@ export default function handler(
     };
     var type:number = Math.floor(Math.random() * 20)
     console.log(type)
+
+    const url: string = 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/';
+    const tail: string = '?raw=true'
+
     if (type === 1) {
         var ok: boolean = false;
         do {
             var now = Math.floor(Math.random() * Element.length);
             if (Element[now].rate === 'SSR') {
-                got = Element[now];
+                got = {
+                    name: Element[now].name,
+                    picture_path: url + Element[now].picture_path + tail,
+                    rate: Element[now].rate
+                };
                 ok = true;
             }
         } while (!ok)
@@ -30,7 +38,11 @@ export default function handler(
         do {
             var now = Math.floor(Math.random() * Element.length);
             if (Element[now].rate === 'R') {
-                got = Element[now];
+                got = {
+                    name: Element[now].name,
+                    picture_path: url + Element[now].picture_path + tail,
+                    rate: Element[now].rate
+                };
                 ok = true;
             }
         } while (!ok)
@@ -40,7 +52,11 @@ export default function handler(
         do {
             var now = Math.floor(Math.random() * Element.length);
             if (Element[now].rate === 'C') {
-                got = Element[now];
+                got = {
+                    name: Element[now].name,
+                    picture_path: url + Element[now].picture_path + tail,
+                    rate: Element[now].rate
+                };
                 ok = true;
             }
         } while (!ok)
