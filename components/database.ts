@@ -119,5 +119,58 @@ export const Element:ElementType[] = [
         name: 'Pha',
         picture_path: 'Pha3.png',
         rate: 'R'
+    },{
+        name: 'Aong',
+        picture_path: 'Aong.jpg',
+        rate: 'UR'
+    },{
+        name: 'Mick',
+        picture_path: 'Mick.jpg',
+        rate: 'UR'
+    },{
+        name: 'Mick',
+        picture_path: 'Mick2.jpg',
+        rate: 'R'
+    },{
+        name: 'Karn',
+        picture_path: 'Karn.png',
+        rate: 'R'
+    },{
+        name: 'Nine',
+        picture_path: 'Nine.jpg',
+        rate: 'R'
+    },{
+        name: 'Karn',
+        picture_path: 'Karn2.jpg',
+        rate: 'R'
+    },{
+        name: 'Mick and Copy',
+        picture_path: 'MickCopy.jpg',
+        rate: 'R'
+    },
+    {
+        name: 'Karn',
+        picture_path: 'Karn3.jpg',
+        rate: 'C'
+    },{
+        name: 'Karn',
+        picture_path: 'Karn4.png',
+        rate: 'R'
+    },{
+        name: 'Pha',
+        picture_path: 'Pha4.jpg',
+        rate: 'UR'
+    },{
+        name: 'Mick',
+        picture_path: 'Mick3.jpg',
+        rate: 'SSR'
+    },{
+        name: 'Kluy',
+        picture_path: 'Kluy.jpg',
+        rate: 'R'
+    },{
+        name: 'Petch',
+        picture_path: 'Petch.png',
+        rate: 'R'
     }
 ]
