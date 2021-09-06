@@ -9,17 +9,17 @@ export interface ElementType{
 export const Element:ElementType[] = [
     {
         name: 'Ice',
-        picture_path: '../public/picture/Ice.jpg',
+        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Ice.jpg?raw=true',
         rate: 'SSR'
     },
     {
-        name: 'Hello',
-        picture_path: 'None',
+        name: 'Fai',
+        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Fai.jpg?raw=true',
         rate: 'C'
     },
     {
-        name: 'Test',
-        picture_path: 'No',
+        name: 'Ink',
+        picture_path: 'https://github.com/MasterIceZ/Salty-Gacha/blob/main/public/picture/Ink.jpg?raw=true',
         rate: 'R'
     }
 ]
