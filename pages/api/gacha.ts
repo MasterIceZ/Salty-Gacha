@@ -8,7 +8,11 @@ export default function handler(
     req: NextApiRequest,
     res: NextApiResponse<ElementType>
 ) {
-    var got: ElementType;
+    var got: ElementType = {
+        name: 'Null',
+        picture_path: 'Null',
+        rate: 'Null'
+    };
     var type:number = Math.floor(Math.random() * 20)
     console.log(type)
     if (type === 1) {
