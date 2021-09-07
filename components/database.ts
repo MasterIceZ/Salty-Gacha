@@ -166,11 +166,95 @@ export const Element:ElementType[] = [
         rate: 'SSR'
     },{
         name: 'Kluy',
-        picture_path: 'Kluy.jpg',
+        picture_path: 'Kluy.png',
         rate: 'R'
     },{
         name: 'Petch',
         picture_path: 'Petch.png',
         rate: 'R'
+    },{
+        name: 'Pha',
+        picture_path: 'Pha5.jpg',
+        rate: 'UR'
+    },{
+        name: 'Ice',
+        picture_path: 'Ice.jpg',
+        rate: 'C'
+    },{
+        name: 'Mark3',
+        picture_path: 'Mark3.JPG',
+        rate: 'C'
+    },{
+        name: 'Fai',
+        picture_path: 'Fai3.jpg',
+        rate: 'R'
+    },{
+        name: 'Krachu',
+        picture_path: 'Krachu2.jpg',
+        rate: 'C'
+    },{
+        name: 'Gun',
+        picture_path: 'Gun3.jpg',
+        rate: 'C'
+    },{
+        name: 'Reo',
+        picture_path: 'Reo.jpg',
+        rate: 'C'
+    },{
+        name: 'Ice',
+        picture_path: 'Ice3.jpg',
+        rate: 'R'
+    },{
+        name: 'Sun and Gun',
+        picture_path: 'SunGun.jpg',
+        rate: 'R'
+    },{
+        name: 'Ice',
+        picture_path: 'Ice4.jpg',
+        rate: 'UR'
+    },{
+        name: 'Japan',
+        picture_path: 'Japan3.jpg',
+        rate: 'C'
+    },{
+        name: 'Idin',
+        picture_path: 'Idin4.jpg',
+        rate: 'C'
+    },{
+        name: 'Japan and Copy',
+        picture_path: 'JapanCopy.jpg',
+        rate: 'R'
+    },{
+        name: 'Pha and Tonkla',
+        picture_path: 'PhaTonkla.jpg',
+        rate: 'SSR'
+    },{
+        name: 'Ice and Ink',
+        picture_path: 'IceInk.jpg',
+        rate: 'R'
+    },{
+        name: 'Pha and Japan',
+        picture_path: 'PhaJapan.jpg',
+        rate: 'R'
+    },{
+        name: 'Gun',
+        picture_path: 'Gun4.jpg',
+        rate: 'C'
+    },{
+        name: 'Mark',
+        picture_path: 'Mark4.jpg',
+        rate: 'C'
+    },{
+        name: 'Sun',
+        picture_path: 'Sun2.jpg',
+        rate: 'C'
+    },{
+        name: 'Nithi and Reo',
+        picture_path: 'NithiReo.jpg',
+        rate: 'SSR'
+    },{
+        name: 'Sun',
+        picture_path: 'Sun3.jpg',
+        rate: 'UR'
     }
 ]
