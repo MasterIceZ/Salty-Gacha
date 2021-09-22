@@ -147,8 +147,7 @@ export const Element:ElementType[] = [
         name: 'Mick and Copy',
         picture_path: 'MickCopy.jpg',
         rate: 'R'
-    },
-    {
+    },{
         name: 'Karn',
         picture_path: 'Karn3.png',
         rate: 'C'

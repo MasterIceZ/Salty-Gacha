@@ -11,6 +11,7 @@ const Home:NextPage = () => {
       <a href="./api/gacha">
         <Text align="center" fontSize="45px">Here!</Text>
       </a>
+      <a href="./ink">Hello</a>
     </>
   )
 }
